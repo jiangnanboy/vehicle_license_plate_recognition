@@ -23,7 +23,7 @@
 
 ### 识别结果
 
-<br/><br/> 
+<br/>
 <p align="center">
   <a>
     <img src="data_result/1.png">
@@ -31,7 +31,7 @@
     <img src="data_result/3.png">
   </a>
 </p>
-<br/><br/>
+<br/>
 
 ### contact
 
