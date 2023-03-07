@@ -1,0 +1,9 @@
+paddlepaddle=2.3.1
+paddleocr=2.6
+onnx=1.11.0
+onnxruntime=1.10.0
+streamlit=1.10.0
+fastapi=0.68.1
+opencv-contrib-python=4.6.0.66
+opencv-python=4.6.0.66
+numpy=1.19.5
